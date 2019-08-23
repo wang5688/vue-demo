@@ -1,3 +1,0 @@
-[submodule "vue-dep"]
-	path = dep/vue-dep
-	url = https://github.com/wang5688/vue-dep.git
